@@ -1,16 +1,18 @@
-## Hi there 👋
+# **Hi, I'm Rayan!** 👋 🚀  
 
-<!--
-**nasrallr/nasrallr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Passionate about **software engineering**, **cloud architecture**, and **building scalable systems** that drive real-world impact.  
+🔭 Currently working on **frontend development** and refining my skills in **full-stack development**.  
+💡 Experienced in **cloud solutions, software architecture, and scalable application development**, with hands-on expertise in **Google Cloud Platform, and software design**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🌎 Connect With Me**  
+🌐 **Personal Website:** Coming Soon!  
+💼 **LinkedIn:** [/in/rayan-n](https://www.linkedin.com/in/rayan-n/)  
+📫 **Email:** `nasrallr@mcmaster.ca`   
+🎖 **Certifications:** [Google Associate Cloud Engineer, Cloudera Technical Professional](https://www.credly.com/users/rayan-nasrallah/)  
+
+---
+
+### **🚀 Let's Build Something Amazing Together!**  
+If you're interested in **cloud solutions architecture, frontend development, or scalable software solutions**, let's connect! 😊  
