@@ -15,4 +15,4 @@
 ---
 
 ### **🚀 Let's Build Something Amazing Together!**  
-If you're interested in **cloud solutions architecture, frontend development, or scalable software solutions**, let's connect! 😊  
+If you're interested in **cloud solutions architecture, full-stack development, or scalable software solutions**, let's connect! 😊  
